@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+twilio
+sarvamai
+openai
+python-dotenv
+audioop-lts; python_version >= "3.13"
+pytest
